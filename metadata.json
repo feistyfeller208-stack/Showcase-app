@@ -1,0 +1,7 @@
+{
+  "name": "Showcase Digital Catalogs",
+  "description": "A powerful mobile-first platform for businesses to create, manage, and share beautiful digital catalogs and menus with QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
